@@ -30,11 +30,22 @@ Embed your Train the Trainer video here. Instructions on how to create a great v
 
 ## Pre-Learning
 
-*add a link to Microsoft Learn for students to pre-learn the topic, if possible*
+- [Create an Azure account](https://learn.microsoft.com/en-us/training/modules/create-an-azure-account/)
+
+- [Virtual machines in Azure](https://learn.microsoft.com/en-us/azure/virtual-machines/overview)
+
+- [Create a WordPress site](https://learn.microsoft.com/en-us/azure/app-service/quickstart-wordpress)
+
+- [Create a Linux virtual machine in the Azure portal](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu)
+
+- [Create a Windows virtual machine in Azure](https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/)
+
+- [What is Azure Static Web Apps?](https://learn.microsoft.com/en-us/azure/static-web-apps/overview)
 
 ## Prerequisites
 
-*any installations that will be helpful, any hardware or software needed*
+- Azure account
+- Azure subscription
 
 ## What students will learn
 
@@ -46,35 +57,32 @@ Example: Have you ever wanted to visit a museum virtually or explore its collect
 
 ![image of completed project](images/placeholder.png)
 
-## Milestone 1 (example)
+## Milestone 1: How to create and deploy Linux virtual machine on Azure
 
-In this segment, you'll query an API at the Metropolitan Museum of Art
 
-[link to Learn module area](link)
 
-## Milestone 2
+## Milestone 2: How to connect Linux virtual machine with your local machine
 
-text
 
-link
 
-## Milestone 3
+## Milestone 3: How to create and deploy Windows virtual machine on Azure
 
 text
 
 link
 
-## Milestone 4
+## Milestone 4: How to connect Windows virtual machine with your local machine
 
 text
 
 link
 
-## Milestone 5
+## Milestone 5: How to create and deploy WordPress virtual machine on Azure
 
 text
 
 link
+## Milestone 6: How to create and deploy Web App on Azure
 
 ## Quiz or Code Challenge
 
