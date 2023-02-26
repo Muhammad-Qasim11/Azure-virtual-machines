@@ -37,7 +37,7 @@ Source 4:https://learn.microsoft.com/en-us/azure/static-web-apps/overview
 
 ## Stage 3: Learning Plan
 
-> Now you are ready to build out your lesson plan. Summarize the key learning events here by creating an outline of the milestones that you can lay out to structure the course.
+
 
 ## Milestone 1: How to create and deploy Linux virtual machine on Azure
 
