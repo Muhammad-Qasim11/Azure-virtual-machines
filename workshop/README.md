@@ -90,7 +90,7 @@ Link to quiz or challenge on Learn
 
 ## Next steps
 
-*links to Microsoft Learn to further learning progress, and/or a path to certifications*
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
 ## Practice
 
