@@ -1,21 +1,28 @@
-# Full Workshop Title
+# How to create and deploy Azure virtual machines
 
-## Module Source Link
+## Workshop Source 
 
-Link the source Learn module here
+We created this workshop based on the following sources:
+
+Source 1:https://learn.microsoft.com/en-us/training/modules/create-linux-virtual-machine-in-azure/
+
+Source 2:https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/
+
+Source 3:https://learn.microsoft.com/en-us/azure/app-service/quickstart-wordpress
+
+Source 4:https://learn.microsoft.com/en-us/azure/static-web-apps/overview
 
 ## Goals
 
-In this workshop, we will discuss *insert your topic*.
+In this workshop, we will discuss how to create and deploy different types of Azure virtual machines. The learners will be able to create Azure virtual machines like Windows VM, Linux VM, WordPress VM and Web app deployment and will learn how to connect different types of VM's with their Local machines.
 
-| **Goal**              | *describe the goal of the workshop*                                    |
+| **Goal**              | *How to create and deploy Azure virtual machines*                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
-| **What will you learn**       | *describe your learning goals*                                        |
-| **What you'll need**          | *link all the necessary tooling, subscriptions, and downloads needed* |
-| **Duration**                  | *specify the duration*                                                                |
-| **Microsoft Cloud Topics taught**                  | *M365, Azure, GitHub, other?*                                                                |
-| **Just want to try the app or see the solution?** | *an optional link to the completed project sample app or solution folder*                          |
-| **Slides** | [Powerpoint](slides.pptx) 
+| **What will you learn**          | *Learn how to deploy various VM's on Azure and how can we use it from our local machine*                                        |
+| **What you'll need**             | *Azure subscription,Know how of Azure, Knowledge of various types of Virtual machines* |
+| **Duration**                     | *1 to 1.5*                                                                |
+| **Microsoft Cloud Topics taught**| *Azure VM's, Azure Web app* |
+ 
                          
 ## Video
 
