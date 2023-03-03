@@ -76,7 +76,8 @@ Example: We have an existing website running on a local Ubuntu Linux server. Our
 
 *add a screenshot of the completed project*
 
-![image of completed project](images/placeholder.png)
+<img width="707" alt="8" src="https://user-images.githubusercontent.com/76419649/222787799-2f71cd6e-da57-42e6-94fd-ee739aa2b2ae.png">
+
 
 ## Milestone 1 (example)
 
