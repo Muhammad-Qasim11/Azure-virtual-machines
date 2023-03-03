@@ -41,7 +41,7 @@ Source 4:https://learn.microsoft.com/en-us/azure/static-web-apps/overview
 
 ## Milestone 1: How to create and deploy Linux virtual machine on Azure
 
-## Module Source Link [Licrosft Learn Link](https://learn.microsoft.com/en-us/training/modules/create-linux-virtual-machine-in-azure/2-create-a-linux-virtual-machine)
+## Module Source Link [Microsoft Learn Link](https://learn.microsoft.com/en-us/training/modules/create-linux-virtual-machine-in-azure/2-create-a-linux-virtual-machine)
 
 ## Goals
 
