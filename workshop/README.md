@@ -49,13 +49,17 @@ Embed your Train the Trainer video here. Instructions on how to create a great v
 
 ## What students will learn
 
-*In this area, describe the scenario and intended solution, paraphrasing what is in the module or creating a brief description here*
+1. Students will be skilled at: How to create and deploy various types of Azure virtual machines like how to create and delpoy Linux VM, Windows VM, Web App and WordPress VM.
 
-Example: Have you ever wanted to visit a museum virtually or explore its collections right from your home computer? In this workshop, use an API, or Application Programming Interface, to learn more about a museum collection.
+2. Students will be able to independently use their learning to: create and deploy fully functional Azure VM and will be able to use them for real world problem solving.
 
-*add a screenshot of the completed project*
+3. Students will be able: to connect Linux and Windows VM with their local machines and will be able to perform tasks on VM's from their local machines.
 
-![image of completed project](images/placeholder.png)
+4. Students will be able: to host WordPress website and can start their blogging journey, either by writing about tech or can publish about their favourite topics.
+
+5. Students will be able: to create their online portfolio by using Azure Web service, which can help them to stand out among other applicants for jobs or internships.
+
+
 
 ## Milestone 1: How to create and deploy Linux virtual machine on Azure
 
