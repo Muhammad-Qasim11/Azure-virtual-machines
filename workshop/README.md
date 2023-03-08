@@ -67,7 +67,63 @@ Example: Have you ever wanted to visit a museum virtually or explore its collect
 
 ## Milestone 3: How to create and deploy Windows virtual machine on Azure
 
-text
+**Step 1: Sign In**
+
+*First go to [azure portal](https://portal.azure.com/) and sign in to the portal.*
+
+**Step 2: Select Virtual Machine**
+
+*Now go to azure services section and select virtual machines.*
+
+![example1](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/W1.png)
+
+**Step 3: Create Virtual Machine**
+
+*In the virtual machine section click on create button.*
+
+![example2](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/W2.png)
+
+*And then select azure virtual machine.*
+
+![example3](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/W3.png)
+
+*After creating the page opens just like the image shown below. If you have any errors opening the page then recheck your previous steps.*
+
+![example4](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/W4.png)
+
+**Step 4: Name your Virtual Machine**
+
+*In instances section name your virtual machine and select windows server 2019 in the images tab and leave rest as default.*
+
+![example5](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/W5.png)
+
+**Step 5: Set Username and Password**
+
+*Now under administrator account section give username and password.*
+
+![example6](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/W6.png)
+
+*Under Inbound port rules, choose Allow selected ports and then select RDP (3389) and HTTP (80) from the drop-down.*
+
+![example7](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/W7.png)
+
+**Step 6: Deployment**
+
+*Now select the Review + create button at the bottom of the page.*
+
+![example8](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/W8.png)
+
+*Once the validation completed, select the Create button at the bottom of the page.*
+
+![example9](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/W9.png)
+
+*Wait until the deployment is in progress.*
+
+![example10](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/W10.png)
+
+*Once deployment is completed then go to resources.*
+
+![example11](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/W11.png)
 
 link
 
