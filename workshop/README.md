@@ -139,7 +139,7 @@ link
 
 ## Milestone 5: How to create and deploy WordPress virtual machine on Azure
 
-text
+[Source link](https://learn.microsoft.com/en-us/azure/app-service/quickstart-wordpress)
 
 link
 ## Milestone 6: How to create and deploy Web App on Azure
