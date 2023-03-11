@@ -72,13 +72,6 @@ Embed your Train the Trainer video here. Instructions on how to create a great v
 
 *In this area, describe the scenario and intended solution, paraphrasing what is in the module or creating a brief description here*
 
-Example: We have an existing website running on a local Ubuntu Linux server. Our goal is to create an Azure virtual machine (VM) using the latest Ubuntu image and then migrate the site to the cloud. In this unit, you'll learn about the options you'll need to evaluate when creating a virtual machine in Azure.
-
-*add a screenshot of the completed project*
-
-<img width="707" alt="8" src="https://user-images.githubusercontent.com/76419649/222787799-2f71cd6e-da57-42e6-94fd-ee739aa2b2ae.png">
-
-
 ## Milestone 1 (example)
 
 ## Milestone 2: How to connect Linux virtual machine with your local machine
