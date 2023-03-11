@@ -74,6 +74,8 @@ We can create Linux VMs with the Azure portal, the Azure CLI, or Azure PowerShel
 
 ->In the top menu bar, select Create > Azure virtual machine. The Create a virtual machine pane appears.
 
+Example: We have an existing website running on a local Ubuntu Linux server. Our goal is to create an Azure virtual machine (VM) using the latest Ubuntu image and then migrate the site to the cloud. In this unit, you'll learn about the options you'll need to evaluate when creating a virtual machine in Azure.
+
 ### 2.Configure the VM settings, add data disks for the VM, and configure the network
 ![2](https://user-images.githubusercontent.com/76419649/222783597-83c0bc7f-5264-4697-b51a-8a15745c6735.png)
 
