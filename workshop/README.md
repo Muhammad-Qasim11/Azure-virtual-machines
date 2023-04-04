@@ -327,6 +327,38 @@ Here on this screen we can see that our VM is in running state because the “st
 
 
 **Step 12:** 
+![Picture14](https://user-images.githubusercontent.com/64436573/229777648-44ba46bd-c9c3-46ba-9cba-a38b905551a9.png)
+
+Here on this screen we can see the public IP address of our VM, copy it and paste it in the search bar of a new tab, then below window will appear
+
+![Picture17](https://user-images.githubusercontent.com/64436573/229777803-c7f46b17-9b3e-4df5-8b29-d5b370c3cc81.png)
+
+Here in the search bar we can see the IP address of our VM then the path to the configuration files of our WordPress website and this window will appear when we are configuring our WordPress website for the very first time. Here in this window select “English” and click on “continue”.
+After clicking on “continue” below window will appear 
+
+![Picture18](https://user-images.githubusercontent.com/64436573/229778086-2682ef48-2395-4e26-b5d2-3405b24ac855.png)
+
+Click on “Let’s go” to continue.
+
+
+**Step 13:** Below window will appear
+
+![Picture19](https://user-images.githubusercontent.com/64436573/229778215-634e1572-043d-4332-9255-df111f5f8454.png)
+Enter the information as shown in the above image and click on “submit”.
+
+**Step 14:** Setup website/blog information with admin details
+
+![Picture20](https://user-images.githubusercontent.com/64436573/229778414-cec21b38-c08a-4df9-bd6d-3706a82b111f.png)
+
+**Step 15:** Success screen. Click on “Log in”.
+
+![Picture21](https://user-images.githubusercontent.com/64436573/229778599-693e47a5-e2b8-4cd2-bcf5-97b3deae7f49.png)
+
+**Step 16:** Dashboard for wordpress.
+
+![Picture22](https://user-images.githubusercontent.com/64436573/229778792-10d122b1-6629-485a-9851-ebab8b9b720b.png)
+
+Now we can customize our wordpress website.
 
 ## Milestone 6: How to create and deploy Web App on Azure
 
