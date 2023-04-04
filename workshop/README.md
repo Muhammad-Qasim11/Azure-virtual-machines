@@ -327,6 +327,7 @@ Here on this screen we can see that our VM is in running state because the “st
 
 
 **Step 12:** 
+
 ![Picture14](https://user-images.githubusercontent.com/64436573/229777648-44ba46bd-c9c3-46ba-9cba-a38b905551a9.png)
 
 Here on this screen we can see the public IP address of our VM, copy it and paste it in the search bar of a new tab, then below window will appear
@@ -344,6 +345,7 @@ Click on “Let’s go” to continue.
 **Step 13:** Below window will appear
 
 ![Picture19](https://user-images.githubusercontent.com/64436573/229778215-634e1572-043d-4332-9255-df111f5f8454.png)
+
 Enter the information as shown in the above image and click on “submit”.
 
 **Step 14:** Setup website/blog information with admin details
