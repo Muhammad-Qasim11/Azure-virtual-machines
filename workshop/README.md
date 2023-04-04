@@ -251,7 +251,83 @@ link
 
 [Source link](https://learn.microsoft.com/en-us/azure/app-service/quickstart-wordpress)
 
-link
+**Step 1:** First login to your Azure account and you must have a subscription or free credits to create a WordPress website.
+
+**Step 2:** create a separate resource group for your WordPress website in Azure to place all the resources in a single group. From Home tab search Resource groups and click on it.
+
+![1](https://user-images.githubusercontent.com/64436573/229769581-01e552bb-f883-484f-bac3-94b72c1012ea.png)
+
+Then click on “create” to create a new resource group.
+
+![2](https://user-images.githubusercontent.com/64436573/229770583-49d08ec9-d938-413e-903d-32536cc39a3d.png)
+
+Then select the subscription and name your resource group and also select appropriate region for your resource group.
+
+**Step 3:** Go to Home tab and click on “create a resource” to create WordPress VM.
+
+![3](https://user-images.githubusercontent.com/64436573/229770950-0b8dc88f-a613-4504-b3da-bc1fb40bb342.png)
+
+
+**Step 4:** After clicking on create a resource you will be brought to “Marketplace” tab. Here in the search bar , search for WordPress and click on the very first option.
+
+![Picture4](https://user-images.githubusercontent.com/64436573/229771129-69ae21c7-566c-4d53-b588-1fe3e4a50061.png)
+
+
+**Step 5:** Then click on create to create a new resource of WordPress.
+
+![Picture5](https://user-images.githubusercontent.com/64436573/229771251-b22b51a3-1e9e-4c98-9a4d-8785b630068f.png)
+
+**Step 6:**  Now select appropriate settings for the resource as shown below
+
+![Picture6](https://user-images.githubusercontent.com/64436573/229771442-80dc2269-cf29-40dd-80d0-71a1fb95943f.png)
+
+![Picture7](https://user-images.githubusercontent.com/64436573/229771514-a664f26b-58d5-43c0-b7b4-1f2c39bfa9b3.png)
+
+Here we will give username and password to connect to our website as administrator.
+
+![Picture8](https://user-images.githubusercontent.com/64436573/229771663-92515720-9c1c-435e-9f59-022fb3d7f950.png)
+
+**Step 7:**  After entering the information we can click on “Review + create” button to create our resource.
+
+![Picture9](https://user-images.githubusercontent.com/64436573/229771760-4752d3e2-cb79-4456-af40-773cc0a05b4d.png)
+
+
+**Step 8:**  If we want to make further changes to our resource and customize it then we have option for that, by exploring the different tabs available on the “create a virtual machine” page as shown below
+
+![Picture10](https://user-images.githubusercontent.com/64436573/229771977-15318ea2-0e4e-4fed-8715-4be55c36e259.png)
+
+
+**Step 9:** After clicking on “review + create” button, we can finally create our resource by clicking on the “create” button. 
+
+
+![Picture11](https://user-images.githubusercontent.com/64436573/229772077-55cb4654-0d91-414d-ac2c-ce7923dd81dd.png)
+
+Here on this page we can review our settings and can see all the information of our resource.
+
+
+After clicking on create button, deployment of our resource will be stated as shown below
+
+
+![Picture12](https://user-images.githubusercontent.com/64436573/229772238-ebafa3e2-ad55-4cc6-9301-61ec9ccb41d8.png)
+
+
+**Step 10:** When the deployment is completed then go to home tab and search for “virtual machine” in the search bar as shown below
+
+
+![Picture13](https://user-images.githubusercontent.com/64436573/229772327-2281d0bc-e27a-461e-9382-35a8c19cd4bb.png)
+
+When we search for virtual machine then all the virtual machines that we have created will be displayed, then select that virtual machine which we have deployed for WordPress website. Here we have deployed the virtual machine for WordPress website in the name of “wordpress-website”. So, we will select this virtual machine.
+
+
+**Step 11:**  As we have created “wordpress-website” virtual machine for our WordPress website, so when we click on it then the below screen will be appeared
+
+![Picture14](https://user-images.githubusercontent.com/64436573/229772562-0f5f3d68-c54d-4152-852e-83441e081e9b.png)
+
+Here on this screen we can see that our VM is in running state because the “start” button in the top section of the screen is grayed and the “stop” button is blue, which means that our VM is in running state and we also stop it by clicking on the stop button.
+
+
+**Step 12:** 
+
 ## Milestone 6: How to create and deploy Web App on Azure
 
 ## Quiz or Code Challenge
