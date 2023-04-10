@@ -239,13 +239,61 @@ Always make sure to lock down ports used for administrative access. An even bett
 
 ![example11](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/W11.png)
 
-link
 
 ## Milestone 4: How to connect Windows virtual machine with your local machine
+**Step 1: Connect Button**
 
-text
+*Click on the connect button in the overview section*
 
-link
+![connection1](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/C1.png)
+
+**Step 2: RDP Settings**
+
+*Now select RDP and under RDP do the following:*
+- IP Address: Default
+- Port Number: 3389
+
+
+![connection2](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/C2.png)
+
+![connection3](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/C3.png)
+
+**Step 3: Download File**
+
+*Then download the file by clicking the Download RDP File button.*
+
+![connection4](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/C4.png)
+
+*Click on the file downloaded which shows at the bottom left corner*
+
+![connection5](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/C5.png)
+
+*Choose connect in the prompt that open after clicking the downloaded file.*
+
+![connection6](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/C6.png)
+
+**Step 4: Security Settings**
+
+*A window security prompt will open enter the username as ‘localhost\username’ and password you created for VM.*
+
+![connection7](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/C7.png)
+
+*A warning prompt open just click yes and proceed.*
+
+![connection8](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/C8.png)
+
+*When it’s connecting it shows like the below.*
+
+![connection9](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/C9.png)
+
+**Step 5: Use the Virtual Machine**
+
+*Virtual machine is connected and working, you can use as per your need.*
+
+![connection10](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/C10.png)
+
+![connection11](https://github.com/Bazgha19/Azure-virtual-machines/blob/main/workshop/images/C11.png)
+
 
 ## Milestone 5: How to create and deploy WordPress virtual machine on Azure
 
